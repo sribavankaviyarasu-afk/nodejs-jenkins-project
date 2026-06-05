@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "nodejs-devops-app"
-        DOCKER_HUB = "reshma0209"
+        DOCKER_HUB = "sribavan"
         TAG = "${BUILD_NUMBER}"
     }
 
